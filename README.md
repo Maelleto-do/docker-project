@@ -3,10 +3,12 @@ Ce projet est un petit entraînement sur Docker via la création de deux images 
 
 Commandes vues :
 
-- Images Docker
+- Docker Images
+- Docker run -it -d <..>
 - Docker ps
 - Docker ps-a
-- Docker lance -it -d <..>
+- Docker tag <..>
+- Docker exec -it <imagesId> /bin/bash
 
 \- \- \-
 
