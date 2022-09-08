@@ -8,7 +8,7 @@ Commandes vues :
 - Docker ps
 - Docker ps-a
 - Docker tag <..>
-- Docker exec -it <imagesId> /bin/bash
+- Docker exec -it <"imagesId"> /bin/bash
 
 \- \- \-
 
